@@ -1,10 +1,10 @@
 {
-  "GOOGLE_MAP_API_KEY": "YOUR_GOOGLE_MAP_API_KEY",
-  "MONGODB_URI": "mongodb://<dbuser>:<dbpassword>@<host>:<port>/<dbname>",
+  "GOOGLE_MAP_API_KEY": "AIzaSyACPqXETw5zHADP0mYS8Bhgapdnp-LL4es",
+  "MONGODB_URI": "mongodb://fresto:fresto123@ds033126.mlab.com:33126/fresto",
   "YELP": {
-    "CONSUMER_KEY": "YOUR_YELP_API_CONSUMER_KEY",
-    "CONSUMER_SECRET": "YOUR_YELP_API_CONSUMER_SECRET",
-    "TOKEN": "YOUR_YELP_API_TOKEN",
-    "TOKEN_SECRET": "YOUR_YELP_TOKEN_SECRET"
+    "CONSUMER_KEY": "lWdw9Z49qtR9HtTGbAxj0w",
+    "CONSUMER_SECRET": "DjIY7ZXcU6hPqJLBt67u6lOSd6Q",
+    "TOKEN": "CCZKCic91Ugx67FcxLALu7k5DX5ebkNP",
+    "TOKEN_SECRET": "s_NOgoXysddV-XlPVwZrREbNF2k"
   }
 }
